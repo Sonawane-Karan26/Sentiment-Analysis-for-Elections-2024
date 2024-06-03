@@ -1,6 +1,7 @@
 # Sentiment-Analysis-for-Lok-Sabha-Elections-2024
 The Lok Sabha elections held in May 2024 were marked by significant public participation and enthusiasm. However, various issues and challenges were reported by the voters, which influenced their sentiments and overall voting experience. This report aims to provide a comprehensive analysis of voter sentiments and key observations from the election process in the Mumbai region.
-<img src="https://github.com/Sonawane-Karan26/Sentiment-Analysis-for-Lok-Sabha-Elections-2024/blob/main/Capture3?raw=true">
+<img src="https://github.com/Sonawane-Karan26/Sentiment-Analysis-for-Lok-Sabha-Elections-2024/blob/main/Capture3.PNG?raw=true">
+<img src="https://github.com/Sonawane-Karan26/Sentiment-Analysis-for-Lok-Sabha-Elections-2024/blob/main/Capture4.PNG?raw=true">
 
 #### 1. **Overview of Voter Sentiments**
 <table class="noBorder">
@@ -56,7 +57,7 @@ Analyzing the sentiment scores provided deeper insights into the overall mood of
 - **High Negative Sentiments**:
   - **Mumbadevi**: Faced significant negative sentiment, particularly with comments like "Disillusioned with the electoral system" (-0.4404) and "Disappointed with the lack of accountability in the voting process" (-0.4597).
  
-    <img src="https://github.com/Sonawane-Karan26/Sentiment-Analysis-for-Lok-Sabha-Elections-2024/blob/main/Capture1?raw=true">
+<img src="https://github.com/Sonawane-Karan26/Sentiment-Analysis-for-Lok-Sabha-Elections-2024/blob/main/Capture1.PNG?raw=true">
 
 #### 4. **Conclusion and Recommendations**
 
@@ -68,5 +69,5 @@ The sentiment analysis of the 2024 Lok Sabha elections in Mumbai reveals a mixed
 - **Enhance Transparency**: Increase transparency in vote counting and election procedures to build trust among the electorate.
 - **Security Measures**: Strengthen the security of ballot boxes and other critical components to address voter concerns.
 
-<img src="https://github.com/Sonawane-Karan26/Sentiment-Analysis-for-Lok-Sabha-Elections-2024/blob/main/Capture2?raw=true">
+<img src="https://github.com/Sonawane-Karan26/Sentiment-Analysis-for-Lok-Sabha-Elections-2024/blob/main/Capture2.PNG?raw=true">
 By addressing these issues, future elections can be more efficient and satisfactory, fostering a stronger and more participative democracy.
